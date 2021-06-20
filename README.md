@@ -11,7 +11,7 @@ Oboe is elegant from the name to the way it is used. Its description only needs 
 
 ![](carbon_page.png)
 
-## Feture
+## Feature
 
 - Oboe not need Provider at root Widget.
 - Oboe use `memo` to intercept update, like react.Hooks.

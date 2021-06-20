@@ -1,3 +1,5 @@
+## [0.1.3] - Update Readme
+
 ## [0.1.2] - Add emoji icon
 
 ## [0.1.1] - Update Readme

@@ -1,6 +1,6 @@
 name: oboe
 description: Oboe is a elegant state management library. Its description only needs two screenshots, Oboe not need Provider at root Widget, Oboe is tiny and ease use, only 2 API.
-version: 0.1.2
+version: 0.1.3
 homepage: https://github.com/ymzuiku/oboe
 
 environment:

@@ -1,6 +1,4 @@
-## [0.1.4] - Add picture
-
-## [0.1.3] - Update Readme
+## [0.1.3] - Add picture
 
 ## [0.1.2] - Add emoji icon
 

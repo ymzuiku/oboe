@@ -1,8 +1,7 @@
+# 🎺 [Oboe](https://pub.dev/packages/oboe) 优雅地状态管理库
 
 - [English Document](./README.md)
 - [中文文档](./README-CN.md)
-
-# [Oboe](https://pub.dev/packages/oboe) 优雅地状态管理库
 
 Oboe 从名字到使用方式，处处都显露着优雅，它的说明仅仅需要两张截图：
 

@@ -1,7 +1,8 @@
+# 🎺 [Oboe](https://pub.dev/packages/oboe) - Elegant state management library
+
+
 - [English Document](./README.md)
 - [中文文档](./README-CN.md)
-
-# [Oboe](https://pub.dev/packages/oboe) - Elegant state management library
 
 Oboe is elegant from the name to the way it is used. Its description only needs two screenshots
 
